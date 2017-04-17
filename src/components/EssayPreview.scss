@@ -1,0 +1,18 @@
+.essaypreview_container {
+  flex: 1 1 auto;
+  background: #fafbfd;
+
+  > div {
+    margin-top: 10px;
+
+    font-size: 0.90em;
+    line-height: 1.5em;
+
+    width: 500px;
+    min-height: 230px;
+
+    > strong {
+      font-weight: 500;
+    }
+  }
+}
